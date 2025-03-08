@@ -1,1 +1,3 @@
-# PyCon Africa '24 Code & Materials
+# Chalmers|GU Code & Materials
+
+Credits to [Harsh Mishra](https://github.com/HarshCasper) for preparing the demo material.
